@@ -1,4 +1,23 @@
-# NotProton
+# NotProton + WineHQ
+
+> **This is a fork of [NotProton](https://github.com/NotProtonNot/NotProton).**
+>
+> I built this for my girlfriend. She only plays occasionally, maybe once or twice a month, and
+> buying a CrossOver license for that just isn't worth it for us. So this fork adds a free WineHQ
+> engine that runs without CrossOver.
+>
+> I'll keep maintaining it until someone asks me to stop. That said, don't expect it to stay up to
+> date: I only work on it when I find the time and motivation, or when something breaks. This fork
+> may lag far behind upstream.
+>
+> **If you actually want to support the developers**, please read
+> [NotProtonNot/NotProton#37](https://github.com/NotProtonNot/NotProton/issues/37) first. It explains
+> why the main project chose not to support WineHQ. If you can afford it, consider using the
+> upstream project with CrossOver as intended.
+
+---
+
+## NotProton
 
 NotProton enables the Steam Play experience from Linux Steam in the macOS Steam client.
 
