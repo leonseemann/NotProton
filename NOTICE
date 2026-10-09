@@ -1,6 +1,12 @@
 NotProton licensing
 ===================
 
+NotProton-WineHQ is a modified version (fork) of NotProton,
+https://github.com/NotProtonNot/NotProton. It was modified by Leon Seemann in
+2026, mainly to add a free WineHQ engine that runs without CrossOver. The
+modifications are licensed under the same terms as the files they change. The
+original notices below still apply.
+
 NotProton has a complex licensing situation. The bulk of the project is licensed
 under GPLV3.
 

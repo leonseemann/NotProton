@@ -1,4 +1,4 @@
-# NotProton + WineHQ
+# NotProton-WineHQ
 
 > **This is a fork of [NotProton](https://github.com/NotProtonNot/NotProton).**
 >
@@ -14,6 +14,14 @@
 > [NotProtonNot/NotProton#37](https://github.com/NotProtonNot/NotProton/issues/37) first. It explains
 > why the main project chose not to support WineHQ. If you can afford it, consider using the
 > upstream project with CrossOver as intended.
+>
+> This fork is not affiliated with or endorsed by the NotProton developers, the Wine project
+> (WineHQ), CodeWeavers or Valve. "Wine" and "CrossOver" are trademarks of their respective
+> owners and are only used here to describe what the software works with. Please report problems
+> with this fork [here](https://github.com/leonseemann/NotProton-WineHQ/issues), not upstream.
+>
+> Modified by Leon Seemann, 2026. Like upstream, this fork is licensed under the GPLv3; see
+> [NOTICE](NOTICE) for details.
 
 ---
 
